@@ -13,6 +13,11 @@
 input{
     margin-left: 100px;
 }
-#adding:hover{
- background-color: aqua;
+#taskaddBtn:hover{
+    background-color: aqua;
+    color: black;
+}
+#clearAll:hover{
+ background-color: red;
+ color: white;
 }
